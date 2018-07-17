@@ -24,6 +24,6 @@ Solution：Change the rule of recursive function or write a stack in global memo
 
 Problem：Make program betweeen OpenCL and OpenGL, when using clCreateFromBuffer, it will be failed and the error code is -34.
 
-Reason：The error is the setting of context, I need to use OpenGL's environments。
+Reason：The error is the setting of context, I need to use OpenGL's environments.
 
-Solution：Using OpenCL's OpenGL to set context。
+Solution：Using OpenCL's OpenGL to set context.
